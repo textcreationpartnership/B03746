@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The credit of Yorkeshire, or The glory of the north, or, A new way to pay the malt-man. To the tune of The right glory of the west.</title>
+            <author>Hammond, Charles, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03746</idno>
+            <idno type="STC">Wing H491B</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[6]</idno>
+            <idno type="EEBO-CITATION">99887531</idno>
+            <idno type="PROQUEST">ocm99887531</idno>
+            <idno type="VID">182264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182264)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The credit of Yorkeshire, or The glory of the north, or, A new way to pay the malt-man. To the tune of The right glory of the west.</title>
+                  <author>Hammond, Charles, 17th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton at the Horse-shoo in Smithfield,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Chrles Hamond.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse: "Of late I heard a dity ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>At head of second part: The second part, to the same tune.</note>
+                  <note>Imperfect: mutilated and faded, affecting some text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182264:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>The credit of Yorkeſhire, or the Glory of the North, Or, A new way to pay the Malt man.</head>
+            <opener>To the Tune of the right Glory of the Weſt.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>OF late I heard a dity,</l>
+                  <l>was ſung in Town and City.</l>
+                  <l>And it was cald the Glory of the Weſt;</l>
+                  <l>of a pretty Cavelier,</l>
+                  <l>That ſong was made as I do hear;</l>
+                  <l>and in my conceit it proved a pretty jeſt,</l>
+                  <l>But it you pleaſe to liſt a while,</l>
+                  <l>This Dity ſure will make you ſmile,</l>
+                  <l>Wherein I will declare the ſame,</l>
+                  <l>of a gallant Northern Dame;</l>
+                  <l>Whoſe vertuous life, her conſtant love and worth,</l>
+                  <l>makes me intitle her the Glory of the North,</l>
+                  <l>Her hushand kept a Tavern and a noted Cavelier,</l>
+                  <l>for being in Pomfret Caſtle it coſt his purſe full dear.</l>
+               </lg>
+               <lg>
+                  <l>All the Gentry far and neare,</l>
+                  <l>reſorted to this Cavelier.</l>
+                  <l>Some for love of him and others for his wife.</l>
+                  <l>Although content to all ſhe gave,</l>
+                  <l>Yet ſo ſhe would her credit ſave;</l>
+                  <l>her husband had no cauſe of jealouſy nor ſtrife.</l>
+                  <l>All ſorts of Sexes thither came,</l>
+                  <l>for to view this comly Dame,</l>
+                  <l>And ſome in zeale would try her skill,</l>
+                  <l>to obtaine their wanton will,</l>
+                  <l>B<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t it they were uncivell,</l>
+                  <l>ſhe<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d caſt them forth this jear,</l>
+                  <l>I pray hands of ſir, touch not a Cavelier.</l>
+                  <l>though Caveleers are poore yet honeſt will bee</l>
+                  <l>And play our games ſo fairely we care not who do ſée.</l>
+               </lg>
+               <lg>
+                  <l>Looke what ſive ſo ere you be,</l>
+                  <l>you're welcome here bée ſure quoth ſhe,</l>
+                  <l>And ſuch content as my houſe can afford</l>
+                  <l>you ſhall have at your command,</l>
+                  <l>But ide have you underſtand,</l>
+                  <l>I ſhun your company &amp; if you were a Lord</l>
+                  <l>If you ſeeke to wrong my Name,</l>
+                  <l>or my credit do defame</l>
+                  <l>By your baſe uncivelty,</l>
+                  <l>then I ſhun your company;</l>
+                  <l>For if you ſeeke to wrong my honour o,</l>
+                  <l>be ſure I then muſt take you for my husbands foe</l>
+                  <l>Comming or going a kiſſe i'le not deny,</l>
+                  <l>but otherwiſe tis trobleſome and I doe it defie.</l>
+               </lg>
+               <lg>
+                  <l>Thus her vertues and her fame,</l>
+                  <l>had gaind her ſuch an honeſt Name,</l>
+                  <l>Moſt of all that Country that lived both far and near,</l>
+                  <l>that no Inne whereſoere they went,</l>
+                  <l>Could give the Gentry ſuch content.</l>
+                  <l>as they could have with this Northern Caveleer.</l>
+                  <l>Thus her credit's long ſet forth,</l>
+                  <l>ſhe's cald the glory of the North,</l>
+                  <l>For being ſuch a vertuous wife,</l>
+                  <l>and leading ſuch a civill life.</l>
+                  <l>But yet it coſt her husbands purſs full dear;</l>
+                  <l>for being in Pomfret Caſtell was prov'd a Caveleer</l>
+                  <l>It coſt his wife all the money ſhee could gaine</l>
+                  <l>her husbands liberty and freedome to obtaine.</l>
+               </lg>
+               <lg>
+                  <l>All the meanes that ſhee could make,</l>
+                  <l>it being for her husbands ſake,</l>
+                  <l>Shée thought it not too much that ſhe did do,</l>
+                  <l>when her husband ſhee had gaind,</l>
+                  <l>And his freedome had obtain'd,</l>
+                  <l>thus was her love ſo conſtant firm &amp; true,</l>
+                  <l>Which brought them then in debt full ſore,</l>
+                  <l>and chiefly on the Maltmans ſcore,</l>
+                  <l>Who did on them no pity take,</l>
+                  <l>but thought a prize on him to make,</l>
+                  <l>Or on his wife; now marke this jeſt I pray,</l>
+                  <l>the man af laſt was deceived in his play,</l>
+                  <l>Her husband then in priſon ſtraight he caſt,</l>
+                  <l>but this ſilly Malt-man did pay for't at laſt.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:182264:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 16 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>HIs wife then hearing of the ſame,</l>
+                  <l>unto the Malt-man ſtraight ſhée came,</l>
+                  <l>And did deſire him ſome courſe that he would take,</l>
+                  <l>that her husband might be freed,</l>
+                  <l>Quoth hee, ſwéete heart it is agreed,</l>
+                  <l>if that you'l conſent to the bargain I wil make,</l>
+                  <l>So ſtraight hee whiſper'd in her eare,</l>
+                  <l>and told her that ſhee need not feare,</l>
+                  <l>For her husband hee would free,</l>
+                  <l>if to him ſhee would agree.</l>
+                  <l>That is quoth he to lodge with me one night</l>
+                  <l>I meane to keepe it ſecret and your courteſie requite,</l>
+                  <l>Your husband cannot know nor of it underſtand,</l>
+                  <l>grant but this requeſt Love, &amp; her's my heart &amp; hand.</l>
+               </lg>
+               <lg>
+                  <l>Thus relating of his minde,</l>
+                  <l>ſhe thought ſhee'd fit him in his kind,</l>
+                  <l>And out of priſon her huſband ſhe would bring;</l>
+                  <l>to any motion i'le now conſent,</l>
+                  <l>This knave, it ſéemes I muſt content,</l>
+                  <l>and nothing elſe will pleaſe him unleſſe it be that thing.</l>
+                  <l>Quoth ſhee my wits i'le worke about,</l>
+                  <l>but ſure i'le bring my husband out,</l>
+                  <l>And yet my credit I will ſave,</l>
+                  <l>but make of him a ſilly knave,</l>
+                  <l>Perhaps he thinks to make of mee his whore,</l>
+                  <l>but ſuch a trick i<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le ſhow him ſhall pay a Maltmans ſcore,</l>
+                  <l>And teach ſuch knaves more wit, when once they heare,</l>
+                  <l>how this Maltman was ſerved by an honeſt Caveleer.</l>
+               </lg>
+               <lg>
+                  <l>Then to this Maltman ſhée replid,</l>
+                  <l>good ſir your ſuit is not denied,</l>
+                  <l>But which way I pray ſhall my husband ſir be fréed?</l>
+                  <l>quoth he, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wéet heart I mean to make,</l>
+                  <l>A free acquittance for thy ſake,</l>
+                  <l>grant but my requeſt &amp; it is done with ſpéed.</l>
+                  <l>Then come at ſuch a night quoth ſhe,</l>
+                  <l>and drink a pint of wine with me,</l>
+                  <l>Then to my Chamber you ſhall goe,</l>
+                  <l>none of my ſervants ſhall it know.</l>
+                  <l>This bargin being made, ſhee to the priſon went,</l>
+                  <l>and there ſhe told her husband all her full intent,</l>
+                  <l>Quoth ſhe ſwéet heart come out with your kéeper ſuch a night</l>
+                  <l>Come up unto my Chamber love and there clame your right.</l>
+               </lg>
+               <lg>
+                  <l>The time being come the Maltman went,</l>
+                  <l>and thought to give this wife content:</l>
+                  <l>Then to her chamber hee ſtraight way was conveyd,</l>
+                  <l>the quittance in his hand he brought,</l>
+                  <l>To reade it then ſhee him beſought;</l>
+                  <l>but full little thought hee poore foole hée was betraid,</l>
+                  <l>With her he then began to play<g ref="char:punc">▪</g>
+                  </l>
+                  <l>but ſhee deſired him for to ſtay;</l>
+                  <l>Ide have you go to bed quoth ſhee,</l>
+                  <l>if that y<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u meane to ſport with mée,</l>
+                  <l>And ſuch content ere long to you i'le give,</l>
+                  <l>juſt cauſe you<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l have to think on me as long as you live</l>
+                  <l>He then puts off his cloths and into bed did go,</l>
+                  <l>this prity ſoule undreſt her to but now begins his woe</l>
+               </lg>
+               <lg>
+                  <l>Her husband ſtraight began to call</l>
+                  <l>quoth ſhée we are undone now all;</l>
+                  <l>The Maltman hearing that began to ſigh for feare,</l>
+                  <l>quoth he where ſhall I go to hide?</l>
+                  <l>Here in this Cheſt quoth ſhée abide,</l>
+                  <l>for there is nothing in it but ſuch cloths I weare.</l>
+                  <l>Then in he went, but little thought</l>
+                  <l>he to his ſhame ſhould out be brought.</l>
+                  <l>Her husband ſtraight came to the doore,</l>
+                  <l>what are you going to bed you whore,</l>
+                  <l>When I'm in priſon caſt and money want to ſpend,</l>
+                  <l>my kéeper here wants money &amp; is my ſpeciall friend.</l>
+                  <l>Alas you know ſweet heart that I have none quoth ſhee,</l>
+                  <l>i'le ſearch al theſe coffers here, but i'le find ſome ſaith he.</l>
+               </lg>
+               <lg>
+                  <l>Shée opened all about the Rome,</l>
+                  <l>but that which was the Maltmans Tomb.</l>
+                  <l>Come open this quoth hee, for here the treaſure lies,</l>
+                  <l>ſweet heart quoth ſhée <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rapy reſt content.</l>
+                  <l>If this you ſee I ſhall be ſhent.</l>
+                  <l>the Maltman hearing this the teares ran downe his thighs.</l>
+                  <l>Before this Cheſt he opened<g ref="char:punc">▪</g>
+                  </l>
+                  <l>the Maltman lay like one ſtark dead.</l>
+                  <l>Quoth he here is a ſpirit here,</l>
+                  <l>but with my ſword I will him reare.</l>
+                  <l>Kéeper ſaith he, here is mine enemy,</l>
+                  <l>and i'le be revenged upon him by &amp; by,</l>
+                  <l>If that you'l ſpare my life ſweet ſir, I humbly pray,</l>
+                  <l>from all your debts i'le clear you ſir untill this preſent day</l>
+               </lg>
+               <lg>
+                  <l>He then releaſt him of his debt,</l>
+                  <l>this Sparke was out of Priſon let,</l>
+                  <l>And well contented to i'le warrant he was beſide,</l>
+                  <l>tis thought the Maltman dearly payd,</l>
+                  <l>Becauſe he had the Cheſt berayed.</l>
+                  <l>how happy is that man hath ſuch an honeſt Bride</l>
+                  <l>Neere Pomfret doth this couple dwell,</l>
+                  <l>in London rode tis known full well,</l>
+                  <l>The Maltmans friends did me intreate,</l>
+                  <l>none of their Names I ſhould relate.</l>
+                  <l>But to conclude and make an end my Song,</l>
+                  <l>conſider of this jeſt you'l ſay the Maltman had wro<gap reason="illegible: page cropped" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>When Caveliers are poor, they by their wits muſt <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>but let them ſtill be honeſt like this Northern Ca<gap reason="illegible: page cropped" extent="6+ letters">
+                        <desc>••••••…</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+            <closer>
+               <signed>Cha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les Hamond</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>Richard Burton</hi> at the Horſe-ſhoo in Smithfield 16<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9</p>
+         </div>
+      </back>
+   </text>
+</TEI>
